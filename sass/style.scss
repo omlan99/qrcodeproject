@@ -29,12 +29,12 @@ main{
     width: 320px;
     margin: auto;
     padding: 16px;
-    border-radius: 18px;
+    border-radius: 20px;
   }
   .qr{
     display: block;
     margin: auto;
-    border-radius: 18px;
+    border-radius: 20px;
   }
   .content{
     width: 288px;
@@ -46,10 +46,12 @@ main{
     text-align: center;
     font-size: 1.5rem;
     padding-bottom: 16px;
-    font-weight: 700;
+    font-weight: 900;
     line-height: 25px;
   }
   .description{
     text-align: center;
+    font-size: large;
     color: var(--grey);
+    
   }
