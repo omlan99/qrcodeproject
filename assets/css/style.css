@@ -1,0 +1,67 @@
+:root {
+  --grey: #7D889E;
+  --light_grey:#D5E1EF;
+  --white: #ffffff;
+  --blue: #2C7DFA;
+  --blue_shade: #3685FF;
+  --dark_navy: #1F314F;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  background-color: var(--light_grey);
+  font-family: "Outfit", sans-serif;
+}
+
+main {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  min-height: 100vh;
+}
+
+.card {
+  background-color: var(--white);
+  height: 497px;
+  width: 320px;
+  margin: auto;
+  padding: 16px;
+  border-radius: 18px;
+}
+
+.qr {
+  display: block;
+  margin: auto;
+  border-radius: 18px;
+}
+
+.content {
+  width: 288px;
+  height: 129px;
+  margin: 24px 0 40px;
+}
+
+.intro {
+  text-align: center;
+  font-size: 1.5rem;
+  padding-bottom: 16px;
+  font-weight: 700;
+  line-height: 25px;
+}
+
+.description {
+  text-align: center;
+  color: var(--grey);
+}/*# sourceMappingURL=style.css.map */
