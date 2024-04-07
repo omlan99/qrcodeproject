@@ -44,7 +44,7 @@ main {
 .qr {
   display: block;
   margin: auto;
-  border-radius: 20px;
+  border-radius: 25uppx;
 }
 
 .content {
@@ -57,7 +57,7 @@ main {
   text-align: center;
   font-size: 1.5rem;
   padding-bottom: 16px;
-  font-weight: 900;
+  font-weight: 700;
   line-height: 25px;
 }
 
