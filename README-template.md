@@ -47,4 +47,4 @@ What I have learned is to center an item with flexbox. Replicating figma design 
 ## Acknowledgments
  For this project the forntendmentor discord discussion have helped me with centering the project text sizing related issues.
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+
