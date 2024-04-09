@@ -29,12 +29,13 @@ main{
     width: 320px;
     margin: auto;
     padding: 16px;
-    border-radius: 25px;
+    border-radius: 20px;
   }
   .qr{
     display: block;
     margin: auto;
-    border-radius: 25uppx;
+    width: 100%;
+    border-radius: 20px;
   }
   .content{
     width: 288px;
@@ -44,14 +45,14 @@ main{
   }
   .intro{
     text-align: center;
-    font-size: 1.5rem;
+    font-size: 22px;
     padding-bottom: 16px;
     font-weight: 700;
     line-height: 25px;
   }
   .description{
     text-align: center;
-    font-size: large;
+    font-size: 18px;
     color: var(--grey);
     
   }
